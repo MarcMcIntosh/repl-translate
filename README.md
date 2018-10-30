@@ -21,6 +21,9 @@ Use a small list of words to start with, getting a small working prototype shoul
 + [ ] Words can be selected at random, limited by difficulty.
 + [ ] Write this in other languages.
 
+### Extremities
++ [ ] turn the program in to a slack robot that sends people a word, evealutes the response and provides points and allocates the user a score for a score board... the users score determins difficulty.
+
 # Notes
 some resources for generating larger word lists.
 _Most common english words_ <http://jbauman.com/gsl.html>
