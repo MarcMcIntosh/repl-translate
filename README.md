@@ -5,7 +5,11 @@ REPL translation game
 Write a tralation game, where the user is presented with a word and has to type a traslated version of the word, going from foreign to native or vice-versa.
 _note_ it maybe difficult for a user to enter certain characters.
 
-# User stories
+## Testing
+Use a small list of words to start with, getting a small working prototype should be a priority
+ 
+
+## User stories
 +  [ ] The user see's a word in one language
 + [ ] When the user translates the current word it to the target language, another word is generated.
 + [ ] When stuck the user can ask for hints ( i.e magic tabs )
